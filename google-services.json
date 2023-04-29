@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715408396144",
+    "project_id": "to-do-app-ec8bc",
+    "storage_bucket": "to-do-app-ec8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715408396144:android:57e14029a2d65bc79e49b5",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715408396144-beltjrp90vp9otio5o0ool4bvs3mk5oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0RobtHlgV3QZMR6kwDGXM42gObeu81k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715408396144-beltjrp90vp9otio5o0ool4bvs3mk5oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
